@@ -1,4 +1,4 @@
-![Naya Naira Zahra]( img/HeaderGithub.png)
+![Naya Naira Zahra]( img/MyProfileHeader.jpg)
 # Hi, im Naya Naira Zahra 👋
 
 <!--
