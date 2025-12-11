@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## 🛠 Skills (In Progress)
 
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![node js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 💻 **Programming:** Python, Java  
 👩‍💻 **Web Development:** HTML, CSS, Basic JavaScript  
 🎮 **Game Development:** C#, GDScript  
