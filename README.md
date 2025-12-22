@@ -1,43 +1,64 @@
-![Naya Naira Zahra]( img/MyProfileHeader.jpg)
-# Hi, im Naya Naira Zahra 👋
+<p align="center">
+  <img src="img/MyProfileHeader.jpg" alt="Naya Naira Zahra" width="100%" style="border-radius: 10px;">
+</p>
 
-<!--
-**NayaNaira/NayaNaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Naya Naira Zahra! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33BBFF&center=true&vCenter=true&width=435&lines=Informatics+Student+at+UNSAP;Web+Development+Enthusiast;Indie+Game+Developer+in+the+making" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔹 I am an Informatics student at UNSAP Sumedang, currently building my foundation in computer science and technology.  
-🔹 I am actively learning the basics of programming, web development, and game development to strengthen my technical skills.  
-🔹 I have a growing interest in web technologies, data, and software development, and I enjoy exploring how technology can be used to solve real-world problems.
+---
 
+### 💫 About Me
+🔹 **Education:** Informatics Student at **UNSAP Sumedang**.  
+🔹 **Focus:** Building foundations in computer science and modern tech.  
+🔹 **Interests:** Exploring how technology can solve real-world problems.  
+🔹 **Current Goal:** Strengthening technical skills in Web & Game Development.
 
-## 🛠️ Skills & Technologies
+---
 
-### 🌐 Web Development
+### 🛠️ Tech Stack & Skills
+
+#### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🎮 Game Development
+#### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 💻 Programming & Tools
+#### 💻 Programming & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
+### 📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NayaNaira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naya's Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaNaira&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naya Naira" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naya Naira" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  ⭐️ From <b>NayaNaira</b>
+</p>
