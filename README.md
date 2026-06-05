@@ -46,6 +46,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaNaira&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=NayaNaira&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=NayaNaira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NayaNaira&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
 
 ### 📫 Let's Connect!
